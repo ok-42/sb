@@ -11,8 +11,4 @@ def index():
 
 
 print(__name__)
-if __name__ == "__main__":
-    print("run")
-    print("some change")
-    application.run()
 
